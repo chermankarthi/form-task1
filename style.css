@@ -1,0 +1,29 @@
+
+.heading{
+	background-color:whitesmoke;
+	padding:10px 0 10px 0;
+	margin:0px 0 20px 0px;
+	
+}
+
+
+
+.container input[type=text], [type=email], [type=tel]{
+	padding:10px 100px 10px 0px;
+	
+}
+
+.submit-btn{
+	border:none;
+	background-color:blue;
+	color:white;
+	padding:5px 10px 5px 10px;
+	cursor:pointer;
+}
+
+input, textarea{
+	outline:none;
+	margin-top:10px;
+}
+
+
